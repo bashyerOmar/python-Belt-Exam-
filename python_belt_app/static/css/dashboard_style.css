@@ -1,0 +1,25 @@
+.table{
+    margin-top: 40px;
+    width: 800px;
+}
+
+#logout , .add_item{
+position: absolute;
+
+}
+
+#logout{
+top: 0px;
+right: 0px;
+
+}
+
+.add_item{
+bottom: 0px;
+right: 0px;
+margin:0px 30px 30px 0px;
+}
+
+a{
+    text-decoration-line: underline;
+}
